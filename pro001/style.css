@@ -58,7 +58,7 @@ button {
     height: 40px;
     font: bold 1.2em serif;
     background: #000;
-    color: rgb(255, 198, 0);
+    color: white;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
